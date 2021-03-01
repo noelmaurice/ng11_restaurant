@@ -1,0 +1,10 @@
+<h3>{{user.role}}</h3>
+<div>
+  {{user.firstName}} {{user.lastName}}
+</div>
+<div *ngIf="user.award !== ''">
+  récompense : {{user.award}}
+</div>
+<div>
+  Téléphone : {{user.phoneNumber}} <button mat-button color="accent" (click)="displayNumber()">Afficher téléphone</button>
+</div>

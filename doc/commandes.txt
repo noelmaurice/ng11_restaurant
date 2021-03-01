@@ -1,0 +1,18 @@
+ng new restaurant
+
+ng add @angular/material
+
+ng generate @angular/material:material-nav --name=site/navigator
+
+ng g c site/Home
+ng g c site/Menu
+ng g c site/Reserve
+ng g c site/Contact
+
+ng g m app-routing --flat --module=app
+
+ng generate @angular/material:dashboard --name=site/dashboard
+
+ng g s services/quick-lunch
+
+
