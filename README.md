@@ -14,10 +14,6 @@ Ce projet est un projet pédagogique. En règle générale, par souci de discré
 
 <img src="./doc/demo/carte.png" />
 
-## Affichage de la page d'accueil
-
-<img src="./doc/demo/home.png" />
-
 ## Affichage des soirées à thème
 
 <img src="./doc/demo/programme.png" />
