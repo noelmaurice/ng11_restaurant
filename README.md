@@ -4,7 +4,31 @@
 
 Ce projet est un projet pédagogique. En règle générale, par souci de discrétion et de respect pour les employeurs, les projets professionnels ne sont pas disponibles sur ce repository.
 
-**Ce projet est en cours de développement**
+# Copie d'écrans de l'application 
+
+## Affichage de la page d'accueil
+
+<img src="./doc/demo/home.png" />
+
+## Affichage des menus
+
+<img src="./doc/demo/carte.png" />
+
+## Affichage de la page d'accueil
+
+<img src="./doc/demo/home.png" />
+
+## Affichage des soirées à thème
+
+<img src="./doc/demo/programme.png" />
+
+## Affichage du formulaire de réservation
+
+<img src="./doc/demo/reservation.png" />
+
+## Affichage des contacts
+
+<img src="./doc/demo/contact.png" />
 
 # Version
 
